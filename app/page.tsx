@@ -6,12 +6,12 @@ const P="01055887184",PD="0105 588 7184",PI="+201055887184",WN="201055887184";
 const WM="مرحباً، أريد الاستفسار عن جون سوديك الساحل الشمالي — June SODIC";
 const WU=`https://wa.me/${WN}?text=${encodeURIComponent(WM)}`;
 // TODO: أضف كود Web3Forms هنا
-const WK="YOUR_WEB3FORMS_KEY_HERE";
+const WK="87941d29-7cba-46b1-9fa9-1493f4d29302";
 
 /* ── IMAGES from SODIC/Ogami CDN ── */
 const CDN="https://arro-consultancy.com/uploads/2026-05-07-151055-";
 const I={
-  logo:CDN+"69fc814f8a250.png",hero:CDN+"69fc814fb651a.jpg",
+  logo:CDN+"69fc814f8a250.png",hero:CDN+"69fc814f9a80d.jpg",
   villa:CDN+"69fc814fbd819.jpg",chalet:CDN+"69fc814fad0aa.jpg",
   town:CDN+"69fc814f91076.jpg",twin:CDN+"69fc814fa42ba.jpg",
   master:CDN+"69fc814f9a80d.jpg",beach:CDN+"69fc814fc83e8.jpg",
